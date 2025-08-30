@@ -20,10 +20,7 @@ The content includes:
 
 I've organized the repository into several key folders to keep things tidy:
 
-* **/Classwork**: Contains all code and notes directly from my Python course, sorted by topic or date.
-* **/Assignments**: Holds my solutions to homework and assignments.
-* **/Projects**: Includes small, standalone projects I've built to apply what I've learned.
-* **/Books_and_Resources**: A collection of PDFs, e-books, and links to useful Python resources.
+* **/E books and Tutorials**: A collection of PDFs, e-books, and links to useful Python resources.
 
 ***
 
